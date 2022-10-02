@@ -6,6 +6,8 @@ I know you are here to see who I am and what I'm up to. That's usual hhh, this i
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://alzafartech.medium.com/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
 
+[![EzeDin's github activity graph](https://activity-graph.herokuapp.com/graph?username=Eze-Din&theme=dracula)](https://github.com/Eze-Din/github-readme-activity-graph)
+
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eze-Din&count_private=true&show_icons=true&theme=prussian" width="400">
   <br />
