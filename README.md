@@ -9,7 +9,8 @@ I know you are here to see who I am and what I'm up to. That's usual hhh, this i
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezedin-nigussie-487190111/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://alzafartech.medium.com/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eze-Din)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]
+(https://tiktok.com/Eze-Din)
 
 [![EzeDin's github activity graph](https://activity-graph.herokuapp.com/graph?username=Eze-Din&theme=dracula)](https://github.com/Eze-Din/github-readme-activity-graph)
 
