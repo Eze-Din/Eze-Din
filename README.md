@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://github.com/Eze-Din"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Ezedin;6%2B%A%20Software%20Engineer;FullStack%20Developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
+
 [![GitHub Banner](AlzafarTech.png)](https://alzafartech.wordpress.com)
 
 I know you are here to see who I am and what I'm up to. That's usual hhh, this is Ezedin from Ethiopia. I will graduate this year -2022/2023- in Computer Engineering stream.
