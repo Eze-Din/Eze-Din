@@ -19,6 +19,8 @@ I know you are here to see who I am and what I'm up to. That's usual hhh, this i
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eze-Din&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </div>
 
+<p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=Eze-Din&bc=ebebeb&ic=0E8AD9" alt="Ezedin" /></p>
+
 ---
 
 #### Languages:
