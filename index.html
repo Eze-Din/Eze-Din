@@ -24,7 +24,6 @@
       border-top: 8px solid transparent;
       border-radius: 50%;
       animation: spin 2s linear infinite;
-      cursor: default;
     }
 
     @keyframes spin {
@@ -73,8 +72,8 @@
     <div class="hint">(Click to go back)</div>
   </div>
 
-  <!-- Sound effect -->
-  <audio id="sound" src="https://www.myinstants.com/en/instant/haha-funny-laugh-93061.mp3"></audio>
+  <!-- 🔊 Use your own local sound file here -->
+  <audio id="sound" src="hhh.mp3"></audio>
 
   <script>
     const spinner = document.getElementById('spinner');
@@ -84,7 +83,7 @@
     setTimeout(() => {
       spinner.style.display = 'none';
       finger.style.display = 'flex';
-      sound.play(); // Play sound when finger appears
+      sound.play();
     }, 5000);
 
     function reverse() {
